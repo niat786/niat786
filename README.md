@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming chllanges.
 - 🌱 I’m currently learning Python and working with Flask, Django and Laravel.
 - 💞️ I’m looking to collaborate on opensource projects.
-- 📫 Reach me through email.
+- 📫 Reach me through email or - [Upwork](https://www.upwork.com/freelancers/~0101dd56dbf9c55e58).
 
 <!---
 niat786/niat786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
