@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niat786
 - 👀 I’m interested in learning programming chllanges.
-- 🌱 I’m currently learning Python and working with Flask, Django and Laravel.
+- 🌱 I’m currently learning Python and working with Tailwindcss, Alpine.js, Django and Laravel.
 - 💞️ I’m looking to collaborate on opensource projects.
 - 📫 Reach me through email or - [Upwork](https://www.upwork.com/freelancers/~0101dd56dbf9c55e58).
 
